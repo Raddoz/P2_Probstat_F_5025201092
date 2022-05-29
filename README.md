@@ -21,4 +21,6 @@
 
 ### C
 ###### tentukanlah apakah terdapat pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴 jika diketahui tingkat signifikansi 𝛼 = 5% serta H0 : “tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”
+###### Jawaban
+###### Dari hasil percobaan nomor 1B, hipotesis alternatif bernilai benar dan h1 diterima.
 
