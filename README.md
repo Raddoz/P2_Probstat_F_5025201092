@@ -24,3 +24,20 @@
 #### Jawaban
 ###### Dari hasil percobaan nomor 1B, hipotesis alternatif bernilai benar dan h1 diterima.
 
+### No 2
+### A
+###### Apakah Anda setuju dengan klaim tersebut?
+#### Jawaban
+###### Setuju
+
+### B
+###### Jelaskan maksud dari output yang dihasilkan!
+###### Program
+![image](https://user-images.githubusercontent.com/94375772/170873541-9b3f0814-88e1-4e98-b584-58e99ca5d0ea.png)
+###### Output
+![image](https://user-images.githubusercontent.com/94375772/170873563-18b5a4b8-f207-4fe1-8bc5-b997348f95f9.png)
+### C
+###### Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
+#### Jawaban
+###### Menurut hasil perhitungan, didapat bahwa z = 8.9744 , μ > 20, 000 kilometers , dan P-value < 2.2e-16. Sehingga dapat disimpulkan bahwa mobil dikemudikan rata rata lebih dari 20.000 Kilometer per tahun.
+
