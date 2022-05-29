@@ -66,6 +66,21 @@
 ###### Program
 ![image](https://user-images.githubusercontent.com/94375772/170875659-7a1b3212-22eb-4868-9c57-8e4e0c407a32.png)
 ###### Output
-![image](https://user-images.githubusercontent.com/94375772/170875677-6d0f88ae-af82-4769-9893-ba6dd8155a69.png)
+![image](https://user-images.githubusercontent.com/94375772/170875692-6c5526ce-a08e-47e6-b2c7-cc3c7fce7e1a.png)
+
+### C
+###### Program
+![image](https://user-images.githubusercontent.com/94375772/170875817-e33bf15a-4146-4baf-b30e-5119dad92d41.png)
+
+### D
+###### Program
+![image](https://user-images.githubusercontent.com/94375772/170875850-8049a579-b0cd-4575-b382-0ca5acaddade.png)
+
+### E
+###### Program
+![image](https://user-images.githubusercontent.com/94375772/170875882-1db333c0-6710-4f3c-8659-d6073d3e1e56.png)
+
+
+
 
 
